@@ -227,6 +227,6 @@ This project is created for educational purposes.
 **Unmesh Patil**
 
 - GitHub: https://github.com/unmesh-patil-mh 
-- LinkedIn: https://linkedin.com/in/Unmesh3010
+- LinkedIn: https://linkedin.com/in/unmesh3010
 
 ---
