@@ -226,7 +226,7 @@ This project is created for educational purposes.
 
 **Unmesh Patil**
 
-GitHub: https://github.com/yourusername  
-LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/unmesh-patil-mh 
+LinkedIn: https://linkedin.com/in/Unmesh3010
 
 ---
