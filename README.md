@@ -1,4 +1,4 @@
-# ⚡ Next.js Project  – Modern Web Application
+# ⚡ Next.js Project – Modern Web Application
 
 This project is built using **Next.js**, a powerful React framework for building fast, scalable, and SEO-friendly web applications.
 
